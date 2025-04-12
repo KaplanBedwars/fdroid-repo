@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE fdroid [
+<!ENTITY % fdroid "fdroid">
+]>
+<fdroid><repo name="Benim Repo" description="GitHub üzerinden F-Droid repo" timestamp="20250412180000" icon="fdroid-icon.png" /><application id="com.kaplandev.kaplandrivenew"><name>kaplandrive</name><summary>Bu bir örnek uygulamadır.</summary><version versioncode="1" version="1.0" apkname="apps/com.kaplandev.kaplandrivenew.apk" size="16076459" /></application></fdroid>

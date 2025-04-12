@@ -1,0 +1,12 @@
+repo:
+  name: "Benim Repo"
+  
+  description: "GitHub üzerinden F-Droid repo"
+  timestamp: 20250412180000
+
+apps:
+  - id: com.kaplandev.kaplandrivenew
+    name: kaplandrive
+    version: 1.0
+    apk: "apps/com.kaplandev.kaplandrivenew.apk"
+    desc: "Bu bir örnek uygulamadır."
