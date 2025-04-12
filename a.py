@@ -1,53 +1,19 @@
-import yaml
+#!/bin/python3
 import os
-from xml.etree.ElementTree import Element, SubElement, tostring
-from datetime import datetime
+import json
+import yaml  # pip install pyyaml
+from zipfile import ZipFile
 
-def str_convert(value):
-    """Tüm değerleri string'e çevir"""
-    return str(value) if not isinstance(value, str) else value
-
-# YAML dosyasını oku
-with open('index.yml', 'r', encoding='utf-8') as f:
+# 1. index.yml'yi oku
+with open("index.yml", "r") as f:
     data = yaml.safe_load(f)
 
-# XML yapısını oluştur
-root = Element('fdroid')
+# 2. index-v1.json oluştur
+with open("index-v1.json", "w") as f:
+    json.dump(data, f)
 
-# Repo bilgileri
-repo = SubElement(root, 'repo', {
-    'name': str_convert(data['repo']['name']),
-    'description': str_convert(data['repo']['description']),
-    'timestamp': str_convert(data['repo']['timestamp']),
-    'icon': 'fdroid-icon.png'  # Varsayılan ikon
-})
+# 3. index-v1.jar oluştur (içinde index-v1.json olacak)
+with ZipFile("index-v1.jar", "w") as jar:
+    jar.write("index-v1.json")
 
-# Uygulama bilgileri
-for app in data['apps']:
-    application = SubElement(root, 'application', {
-        'id': str_convert(app['id'])
-    })
-    SubElement(application, 'name').text = str_convert(app['name'])
-    SubElement(application, 'summary').text = str_convert(app.get('desc', ''))
-    
-    # APK boyutunu al (opsiyonel)
-    apk_path = app['apk']
-    apk_size = os.path.getsize(apk_path) if os.path.exists(apk_path) else 0
-    
-    version = SubElement(application, 'version', {
-        'versioncode': '1',  # Varsayılan version code
-        'version': str_convert(app['version']),
-        'apkname': str_convert(apk_path),
-        'size': str(apk_size)  # Boyutu ekle
-    })
-
-# XML'i dosyaya yaz
-with open('index.xml', 'wb') as f:
-    # XML declaration ve doctype ekle
-    f.write(b'<?xml version="1.0" encoding="utf-8"?>\n')
-    f.write(b'<!DOCTYPE fdroid [\n')
-    f.write(b'<!ENTITY % fdroid "fdroid">\n')
-    f.write(b']>\n')
-    f.write(tostring(root, encoding='utf-8', method='xml'))
-
-print("index.xml başarıyla oluşturuldu!")
+print("✅ index-v1.json ve index-v1.jar oluşturuldu!")
