@@ -1,0 +1,62 @@
+{
+  "METADATA_VERSION": 20001,
+  "allow_disabled_algorithms": false,
+  "kaplandrive.apk": {
+    "hash": "73173932c8bd3f38551b0cc8a2abe6a1a0ca92d85db13bd366e5552a491564fe",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.MANAGE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.SYSTEM_ALERT_WINDOW",
+        null
+      ],
+      [
+        "com.kaplandev.kaplandrivenew.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "com.kaplandev.kaplandrivenew",
+    "versionCode": 33,
+    "name": "KaplanDrive",
+    "versionName": "build 20.4",
+    "minSdkVersion": 29,
+    "targetSdkVersion": 34,
+    "sig": "2a7c3de52de4df58a7aeddb554ee08b4",
+    "signer": "54a46346aaa5815692a1991a41373a0849dac6d757f007e82b38cd666374be50",
+    "size": 16101261,
+    "apkName": "kaplandrive.apk",
+    "added": 1747301741.418664
+  }
+}
