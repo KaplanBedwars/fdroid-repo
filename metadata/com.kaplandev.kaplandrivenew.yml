@@ -1,9 +1,38 @@
-AuthorName: ''
 Categories:
-- fdroid-repo
-CurrentVersionCode: 2147483647
-IssueTracker: ''
+  - System
+License: AGPL-3.0-only
+WebSite: https://kaplandrive.example.com
+SourceCode: https://github.com/KaplanBedwars/kaplandrive
+IssueTracker: https://github.com/KaplanBedwars/kaplandrive/issues
 Name: KaplanDrive
-SourceCode: ''
-Summary: ''
-WebSite: ''
+Summary: Güçlü ve modern dosya yöneticisi
+Description: |
+  Kaplandrive lets you run your **own personal server** directly from your Android device — no third-party servers, no tracking, no internet dependency.
+
+With this app, you can:
+- 🔽 Download files from your own local server
+- ✏️ Rename files on your server instantly
+- 🔼 Upload files directly to your device from any browser
+
+📡 All operations are executed entirely **on your device** within your **local network**.  
+🚫 KaplanDrive does **not connect to any external servers** — your data stays with you.
+
+Whether you're a developer, power user, or someone who values privacy, Kaplandrive offers a clean, efficient solution for local file transfers.
+
+Key Highlights:
+- Fast and stable HTTP server hosted on your phone
+- Works over Wi-Fi (LAN only)
+- Full support for managing shared storage (MANAGE_EXTERNAL_STORAGE permission)
+- 100% open-source and free of ads
+
+
+RepoType: git
+Repo: https://github.com/KaplanBedwars/kaplandrive
+AutoUpdateMode: None
+UpdateCheckMode: None
+CurrentVersion: 1.0
+CurrentVersionCode: 1
+Builds:
+  - versionName: 20.4
+    versionCode: 33
+    apk: kaplandrive.apk
