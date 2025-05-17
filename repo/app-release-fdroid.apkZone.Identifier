@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/zhanghai/MaterialFiles/releases
+HostUrl=https://objects.githubusercontent.com/github-production-release-asset-2e65be/135088590/2c81eb2d-339b-4302-bd94-00d7c323c69d?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250516%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250516T182629Z&X-Amz-Expires=300&X-Amz-Signature=d2c54502232f1448991df35517b9ede3c3993191ab423a75817c52c0b9a85722&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dapp-release-fdroid.apk&response-content-type=application%2Fvnd.android.package-archive

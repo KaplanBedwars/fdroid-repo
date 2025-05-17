@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/gsantner/markor/releases
+HostUrl=https://objects.githubusercontent.com/github-production-release-asset-2e65be/101451042/b9e7b525-59c4-4db9-8613-bca409c42617?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250516%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250516T182911Z&X-Amz-Expires=300&X-Amz-Signature=78effd591c2e637b1861271d649b1bc23c204a470de7322a918c03fa8b7238c8&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dnet.gsantner.markor-v158-2.14.1-flavorDefault-release.apk&response-content-type=application%2Fvnd.android.package-archive

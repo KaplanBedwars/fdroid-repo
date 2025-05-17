@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/termux/termux-app/releases
+HostUrl=https://objects.githubusercontent.com/github-production-release-asset-2e65be/44804216/d28b76cb-389c-411d-9dc1-4a46a4ec6af7?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250516%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250516T182723Z&X-Amz-Expires=300&X-Amz-Signature=65b1ea73d2afc0edb402add866b00f49adfd4d5a1f31db86ec21d53c2cf83b63&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dtermux-app_v0.119.0-beta.2%2Bapt-android-7-github-debug_x86_64.apk&response-content-type=application%2Fvnd.android.package-archive

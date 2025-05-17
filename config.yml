@@ -5,6 +5,18 @@
 # Custom path to the Android SDK, defaults to $ANDROID_HOME
 sdk_path: /usr/lib/android-sdk
 
+# Depo adı
+repo_name: KaplanBedwars F-Droid Repo
+
+# Repo açıklaması (isteğe bağlı)
+repo_description: "A KaplanBedwars Original"
+
+
+
+
+
+
+
 
 
 # Paths to installed versions of the Android NDK.  This will be

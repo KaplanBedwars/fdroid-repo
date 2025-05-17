@@ -58,5 +58,1022 @@
     "size": 16101261,
     "apkName": "kaplandrive.apk",
     "added": 1747301741.418664
+  },
+  "index-v1.json:Zone.Identifier": {
+    "name": "index-v1.json:Zone",
+    "apkName": "index-v1.json:Zone.Identifier",
+    "hash": "eacd09517ce90d34ba562171d15ac40d302f0e691b439f91be1b6406e25f5913",
+    "hashType": "sha256",
+    "versionCode": 0,
+    "versionName": "eacd095",
+    "packageName": "eacd09517ce90d34ba562171d15ac40d302f0e691b439f91be1b6406e25f5913",
+    "size": 26,
+    "added": 1747495898.379852
+  },
+  "index.jar:Zone.Identifier": {
+    "name": "index.jar:Zone",
+    "apkName": "index.jar:Zone.Identifier",
+    "hash": "eacd09517ce90d34ba562171d15ac40d302f0e691b439f91be1b6406e25f5913",
+    "hashType": "sha256",
+    "versionCode": 0,
+    "versionName": "eacd095",
+    "packageName": "eacd09517ce90d34ba562171d15ac40d302f0e691b439f91be1b6406e25f5913",
+    "size": 26,
+    "added": 1747495898.380392
+  },
+  "index.xml:Zone.Identifier": {
+    "name": "index.xml:Zone",
+    "apkName": "index.xml:Zone.Identifier",
+    "hash": "eacd09517ce90d34ba562171d15ac40d302f0e691b439f91be1b6406e25f5913",
+    "hashType": "sha256",
+    "versionCode": 0,
+    "versionName": "eacd095",
+    "packageName": "eacd09517ce90d34ba562171d15ac40d302f0e691b439f91be1b6406e25f5913",
+    "size": 26,
+    "added": 1747495898.380778
+  },
+  "index.css:Zone.Identifier": {
+    "name": "index.css:Zone",
+    "apkName": "index.css:Zone.Identifier",
+    "hash": "eacd09517ce90d34ba562171d15ac40d302f0e691b439f91be1b6406e25f5913",
+    "hashType": "sha256",
+    "versionCode": 0,
+    "versionName": "eacd095",
+    "packageName": "eacd09517ce90d34ba562171d15ac40d302f0e691b439f91be1b6406e25f5913",
+    "size": 26,
+    "added": 1747495898.383394
+  },
+  "index.html:Zone.Identifier": {
+    "name": "index.html:Zone",
+    "apkName": "index.html:Zone.Identifier",
+    "hash": "eacd09517ce90d34ba562171d15ac40d302f0e691b439f91be1b6406e25f5913",
+    "hashType": "sha256",
+    "versionCode": 0,
+    "versionName": "eacd095",
+    "packageName": "eacd09517ce90d34ba562171d15ac40d302f0e691b439f91be1b6406e25f5913",
+    "size": 26,
+    "added": 1747495898.384301
+  },
+  "kaplandrive.apk:Zone.Identifier": {
+    "name": "kaplandrive.apk:Zone",
+    "apkName": "kaplandrive.apk:Zone.Identifier",
+    "hash": "eacd09517ce90d34ba562171d15ac40d302f0e691b439f91be1b6406e25f5913",
+    "hashType": "sha256",
+    "versionCode": 0,
+    "versionName": "eacd095",
+    "packageName": "eacd09517ce90d34ba562171d15ac40d302f0e691b439f91be1b6406e25f5913",
+    "size": 26,
+    "added": 1747495898.385244
+  },
+  "index-v1.jar:Zone.Identifier": {
+    "name": "index-v1.jar:Zone",
+    "apkName": "index-v1.jar:Zone.Identifier",
+    "hash": "eacd09517ce90d34ba562171d15ac40d302f0e691b439f91be1b6406e25f5913",
+    "hashType": "sha256",
+    "versionCode": 0,
+    "versionName": "eacd095",
+    "packageName": "eacd09517ce90d34ba562171d15ac40d302f0e691b439f91be1b6406e25f5913",
+    "size": 26,
+    "added": 1747495898.385652
+  },
+  "categories.txt:Zone.Identifier": {
+    "name": "categories.txt:Zone",
+    "apkName": "categories.txt:Zone.Identifier",
+    "hash": "eacd09517ce90d34ba562171d15ac40d302f0e691b439f91be1b6406e25f5913",
+    "hashType": "sha256",
+    "versionCode": 0,
+    "versionName": "eacd095",
+    "packageName": "eacd09517ce90d34ba562171d15ac40d302f0e691b439f91be1b6406e25f5913",
+    "size": 26,
+    "added": 1747495898.38691
+  },
+  "index.png:Zone.Identifier": {
+    "name": "index.png:Zone",
+    "apkName": "index.png:Zone.Identifier",
+    "hash": "eacd09517ce90d34ba562171d15ac40d302f0e691b439f91be1b6406e25f5913",
+    "hashType": "sha256",
+    "versionCode": 0,
+    "versionName": "eacd095",
+    "packageName": "eacd09517ce90d34ba562171d15ac40d302f0e691b439f91be1b6406e25f5913",
+    "size": 26,
+    "added": 1747495898.387233
+  },
+  "kaplanCloud.apk:Zone.Identifier": {
+    "name": "kaplanCloud.apk:Zone",
+    "apkName": "kaplanCloud.apk:Zone.Identifier",
+    "hash": "eacd09517ce90d34ba562171d15ac40d302f0e691b439f91be1b6406e25f5913",
+    "hashType": "sha256",
+    "versionCode": 0,
+    "versionName": "eacd095",
+    "packageName": "eacd09517ce90d34ba562171d15ac40d302f0e691b439f91be1b6406e25f5913",
+    "size": 26,
+    "added": 1747495898.381818
+  },
+  "KaplanAI.apk:Zone.Identifier": {
+    "name": "KaplanAI.apk:Zone",
+    "apkName": "KaplanAI.apk:Zone.Identifier",
+    "hash": "eacd09517ce90d34ba562171d15ac40d302f0e691b439f91be1b6406e25f5913",
+    "hashType": "sha256",
+    "versionCode": 0,
+    "versionName": "eacd095",
+    "packageName": "eacd09517ce90d34ba562171d15ac40d302f0e691b439f91be1b6406e25f5913",
+    "size": 26,
+    "added": 1747495898.382904
+  },
+  "KaplanBedwars(no update) lite.apk:Zone.Identifier": {
+    "name": "KaplanBedwars(no update) lite.apk:Zone",
+    "apkName": "KaplanBedwars(no update) lite.apk:Zone.Identifier",
+    "hash": "eacd09517ce90d34ba562171d15ac40d302f0e691b439f91be1b6406e25f5913",
+    "hashType": "sha256",
+    "versionCode": 0,
+    "versionName": "eacd095",
+    "packageName": "eacd09517ce90d34ba562171d15ac40d302f0e691b439f91be1b6406e25f5913",
+    "size": 26,
+    "added": 1747495898.386578
+  },
+  "KaplanAI.apk": {
+    "hash": "9a3a8526eabb5a00cd5cb17bb13fbd51d77664024a2b2ada8f51b72e2bfc3647",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "com.google.ai.sample.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "com.google.ai.sample",
+    "versionCode": 1,
+    "name": "KaplanAI",
+    "versionName": "1.0",
+    "minSdkVersion": 26,
+    "targetSdkVersion": 34,
+    "sig": "2a7c3de52de4df58a7aeddb554ee08b4",
+    "signer": "54a46346aaa5815692a1991a41373a0849dac6d757f007e82b38cd666374be50",
+    "size": 11622934,
+    "apkName": "KaplanAI.apk",
+    "added": 1747394496.073961
+  },
+  "PojavLauncher.apk:Zone.Identifier": {
+    "name": "PojavLauncher.apk:Zone",
+    "apkName": "PojavLauncher.apk:Zone.Identifier",
+    "hash": "e9690a2d7514dd5bf7826a6e3cba45d07ce7b50fe753af2824be2273a4a76fa4",
+    "hashType": "sha256",
+    "versionCode": 0,
+    "versionName": "e9690a2",
+    "packageName": "e9690a2d7514dd5bf7826a6e3cba45d07ce7b50fe753af2824be2273a4a76fa4",
+    "size": 638,
+    "added": 1747404661.347789
+  },
+  "wifirttscanNEW.apk": {
+    "hash": "2875c6480d46c6f31e1b0542afd02042dd142a0ee8eb66ae7725f2d11c9ef2c7",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.ACCESS_FINE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_WIFI_STATE",
+        null
+      ],
+      [
+        "com.example.android.wifirttscan.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "android.hardware.wifi.rtt"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "com.example.android.wifirttscan.1.png",
+      "480": "com.example.android.wifirttscan.1.png",
+      "320": "com.example.android.wifirttscan.1.png",
+      "240": "com.example.android.wifirttscan.1.png",
+      "160": "com.example.android.wifirttscan.1.png",
+      "0": "com.example.android.wifirttscan.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.example.android.wifirttscan",
+    "versionCode": 1,
+    "name": "WifiRttScan",
+    "versionName": "1.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 34,
+    "sig": "2a7c3de52de4df58a7aeddb554ee08b4",
+    "signer": "54a46346aaa5815692a1991a41373a0849dac6d757f007e82b38cd666374be50",
+    "size": 5853619,
+    "apkName": "wifirttscanNEW.apk",
+    "icon": "com.example.android.wifirttscan.1.png",
+    "added": 1747404661.342903
+  },
+  "Camera-83.apk:Zone.Identifier": {
+    "name": "Camera-83.apk:Zone",
+    "apkName": "Camera-83.apk:Zone.Identifier",
+    "hash": "eacd09517ce90d34ba562171d15ac40d302f0e691b439f91be1b6406e25f5913",
+    "hashType": "sha256",
+    "versionCode": 0,
+    "versionName": "eacd095",
+    "packageName": "eacd09517ce90d34ba562171d15ac40d302f0e691b439f91be1b6406e25f5913",
+    "size": 26,
+    "added": 1747495898.383876
+  },
+  "app-release.apk:Zone.Identifier": {
+    "name": "app-release.apk:Zone",
+    "apkName": "app-release.apk:Zone.Identifier",
+    "hash": "eacd09517ce90d34ba562171d15ac40d302f0e691b439f91be1b6406e25f5913",
+    "hashType": "sha256",
+    "versionCode": 0,
+    "versionName": "eacd095",
+    "packageName": "eacd09517ce90d34ba562171d15ac40d302f0e691b439f91be1b6406e25f5913",
+    "size": 26,
+    "added": 1747495898.384735
+  },
+  "app-release.apk": {
+    "hash": "c980726e3fd6b5edfd2a1e1d9da7089ecd24acb6df9a2b13281d61269e05b1a7",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.QUERY_ALL_PACKAGES",
+        null
+      ],
+      [
+        "com.samsung.systemui.permission.FACE_WIDGET",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "dev.oneuiproject.oneui.oneuisampleapp",
+    "versionCode": 1,
+    "name": "OneUI Sample App",
+    "versionName": "1.0.0",
+    "minSdkVersion": 26,
+    "targetSdkVersion": 33,
+    "sig": "fe17696e7379e364d55e09fcb323b7b2",
+    "signer": "df647a9fe39b57589db8405efeaba62c097d5de2ca053dd01f90f155426bb251",
+    "size": 4256667,
+    "apkName": "app-release.apk",
+    "added": 1747406643.333678
+  },
+  "app-release-fdroid.apk": {
+    "hash": "ebc5138b6f713f0f73b5467a1a8a4ac3ccfcb2e82135372665b6811a8947641f",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.MANAGE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.QUERY_ALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        32
+      ],
+      [
+        "com.android.launcher.permission.INSTALL_SHORTCUT",
+        null
+      ],
+      [
+        "me.zhanghai.android.files.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        32
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "me.zhanghai.android.files",
+    "versionCode": 39,
+    "name": "Material Files",
+    "versionName": "1.7.4",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 34,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "7b848bc946569132c2a0c7bcf8e6f0fe",
+    "signer": "9c22a742fa200c85bafbc9924a02ddc8f3a0b975d4d7b5a8da21d7cf34ce2b20",
+    "size": 9751305,
+    "apkName": "app-release-fdroid.apk",
+    "added": 1747409455.265752
+  },
+  "app-release-fdroid.apk:Zone.Identifier": {
+    "name": "app-release-fdroid.apk:Zone",
+    "apkName": "app-release-fdroid.apk:Zone.Identifier",
+    "hash": "853ec04e4f7296d280ed5921fc3d0c7a8f9949e7f71fb4962f268f88f4ca2939",
+    "hashType": "sha256",
+    "versionCode": 0,
+    "versionName": "853ec04",
+    "packageName": "853ec04e4f7296d280ed5921fc3d0c7a8f9949e7f71fb4962f268f88f4ca2939",
+    "size": 634,
+    "added": 1747495898.381299
+  },
+  "voice-recorder-fdroid-release.apk": {
+    "hash": "42d0e60e2471d6781e0530a76ba4847699763704a8f39dce54ca510d0ca5cd16",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.RECORD_AUDIO",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE_MICROPHONE",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        29
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        29
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "com.simplemobiletools.voicerecorder",
+    "versionCode": 41,
+    "name": "Voice Recorder",
+    "versionName": "5.12.3",
+    "minSdkVersion": 24,
+    "targetSdkVersion": 34,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "480175c889437fbf36a7063bc9fd0c15",
+    "signer": "7f4741e4be719f8dba8aeed9f853a6b3e53bed5fd8802ecc231f272b6fa54486",
+    "size": 10281330,
+    "apkName": "voice-recorder-fdroid-release.apk",
+    "added": 1747409468.272776
+  },
+  "voice-recorder-fdroid-release.apk:Zone.Identifier": {
+    "name": "voice-recorder-fdroid-release.apk:Zone",
+    "apkName": "voice-recorder-fdroid-release.apk:Zone.Identifier",
+    "hash": "7ca1c4e8dde6a2337a80606c8672cb384e3ad885774fd56cf1cd60e35213a42f",
+    "hashType": "sha256",
+    "versionCode": 0,
+    "versionName": "7ca1c4e",
+    "packageName": "7ca1c4e8dde6a2337a80606c8672cb384e3ad885774fd56cf1cd60e35213a42f",
+    "size": 662,
+    "added": 1747495898.386107
+  },
+  "termux-app_v0.119.0-beta.2+apt-android-7-github-debug_x86_64.apk": {
+    "hash": "28df40130651a936504787599b21f06eb2b86316dbfcfa47d36871680b1ebeda",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.MANAGE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        null
+      ],
+      [
+        "android.permission.SYSTEM_ALERT_WINDOW",
+        null
+      ],
+      [
+        "android.permission.READ_LOGS",
+        null
+      ],
+      [
+        "android.permission.DUMP",
+        null
+      ],
+      [
+        "android.permission.WRITE_SECURE_SETTINGS",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.PACKAGE_USAGE_STATS",
+        null
+      ],
+      [
+        "com.android.alarm.permission.SET_ALARM",
+        null
+      ],
+      [
+        "android.permission.READ_PHONE_STATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "com.termux.1021.png",
+      "480": "com.termux.1021.png",
+      "320": "com.termux.1021.png",
+      "240": "com.termux.1021.png",
+      "160": "com.termux.1021.png",
+      "0": "com.termux.1021.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.termux",
+    "versionCode": 1021,
+    "name": "Termux",
+    "versionName": "0.119.0-beta.2",
+    "minSdkVersion": 24,
+    "targetSdkVersion": 28,
+    "nativecode": [
+      "x86_64"
+    ],
+    "sig": "c3320b7e82d5d4a2f83371b194ee34e3",
+    "signer": "b6da01480eefd5fbf2cd3771b8d1021ec791304bdd6c4bf41d3faabad48ee5e1",
+    "size": 35864051,
+    "apkName": "termux-app_v0.119.0-beta.2+apt-android-7-github-debug_x86_64.apk",
+    "icon": "com.termux.1021.png",
+    "added": 1747409474.987838
+  },
+  "termux-app_v0.119.0-beta.2+apt-android-7-github-debug_x86_64.apk:Zone.Identifier": {
+    "name": "termux-app_v0.119.0-beta.2+apt-android-7-github-debug_x86_64.apk:Zone",
+    "apkName": "termux-app_v0.119.0-beta.2+apt-android-7-github-debug_x86_64.apk:Zone.Identifier",
+    "hash": "d862d84a310610a0a849f14188df073330a80df5c209945385a15978123bdf08",
+    "hashType": "sha256",
+    "versionCode": 0,
+    "versionName": "d862d84",
+    "packageName": "d862d84a310610a0a849f14188df073330a80df5c209945385a15978123bdf08",
+    "size": 672,
+    "added": 1747495898.378816
+  },
+  "gallery-396-foss-release.apk": {
+    "hash": "e570600181ce6c0a3a402f465b40e2b756c1480c2f163518166c6d28d7690a51",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        40
+      ],
+      [
+        "android.permission.SET_WALLPAPER",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.ACCESS_MEDIA_LOCATION",
+        null
+      ],
+      [
+        "android.permission.READ_MEDIA_IMAGES",
+        null
+      ],
+      [
+        "android.permission.READ_MEDIA_VIDEO",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.MANAGE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.MANAGE_MEDIA",
+        null
+      ],
+      [
+        "android.permission.USE_FINGERPRINT",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        40
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "com.simplemobiletools.gallery.pro",
+    "versionCode": 396,
+    "name": "Gallery",
+    "versionName": "6.28.1",
+    "minSdkVersion": 23,
+    "targetSdkVersion": 33,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi",
+      "armeabi-v7a",
+      "mips",
+      "mips64",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "13b258b7221143378fbd836ac71ddbc3",
+    "signer": "c483b44d6d30ee0114b341fb69add6b6daed584cfceb70c952b5e0bf562a4a31",
+    "size": 32223101,
+    "apkName": "gallery-396-foss-release.apk",
+    "added": 1747409501.592647
+  },
+  "net.gsantner.markor-v158-2.14.1-flavorDefault-release.apk:Zone.Identifier": {
+    "name": "net.gsantner.markor-v158-2.14.1-flavorDefault-release.apk:Zone",
+    "apkName": "net.gsantner.markor-v158-2.14.1-flavorDefault-release.apk:Zone.Identifier",
+    "hash": "6c510910bcd1f1776a44dce8150d1e8060f7ba1965d52fd470b00ef6053ab75e",
+    "hashType": "sha256",
+    "versionCode": 0,
+    "versionName": "6c51091",
+    "packageName": "6c510910bcd1f1776a44dce8150d1e8060f7ba1965d52fd470b00ef6053ab75e",
+    "size": 662,
+    "added": 1747495898.379398
+  },
+  "gallery-396-foss-release.apk:Zone.Identifier": {
+    "name": "gallery-396-foss-release.apk:Zone",
+    "apkName": "gallery-396-foss-release.apk:Zone.Identifier",
+    "hash": "c5f511a677446a998a53f913b16d5fe7a3f4b76496a2f771c9f6065928fe91ff",
+    "hashType": "sha256",
+    "versionCode": 0,
+    "versionName": "c5f511a",
+    "packageName": "c5f511a677446a998a53f913b16d5fe7a3f4b76496a2f771c9f6065928fe91ff",
+    "size": 649,
+    "added": 1747495898.382313
+  },
+  "AppManager_v4.0.3.apk": {
+    "hash": "67e4ecb79bfcc875630923d04fba60d8af84ccd838d7a29736b6dd544d0b7dba",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.ACCESS_HIDDEN_PROFILES",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ADJUST_RUNTIME_PERMISSIONS_POLICY",
+        null
+      ],
+      [
+        "android.permission.BACKUP",
+        null
+      ],
+      [
+        "android.permission.CHANGE_COMPONENT_ENABLED_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_OVERLAY_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.CLEAR_APP_CACHE",
+        null
+      ],
+      [
+        "android.permission.CLEAR_APP_USER_DATA",
+        null
+      ],
+      [
+        "android.permission.DELETE_CACHE_FILES",
+        null
+      ],
+      [
+        "android.permission.DELETE_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.DEVICE_POWER",
+        null
+      ],
+      [
+        "android.permission.DUMP",
+        null
+      ],
+      [
+        "android.permission.ENFORCE_UPDATE_OWNERSHIP",
+        null
+      ],
+      [
+        "android.permission.FORCE_STOP_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+        null
+      ],
+      [
+        "android.permission.GET_PACKAGE_SIZE",
+        25
+      ],
+      [
+        "android.permission.GET_APP_OPS_STATS",
+        null
+      ],
+      [
+        "android.permission.GET_RUNTIME_PERMISSIONS",
+        null
+      ],
+      [
+        "android.permission.GET_TASKS",
+        null
+      ],
+      [
+        "android.permission.GRANT_RUNTIME_PERMISSIONS",
+        null
+      ],
+      [
+        "android.permission.INJECT_EVENTS",
+        null
+      ],
+      [
+        "com.android.permission.INSTALL_EXISTING_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.INSTALL_TEST_ONLY_PACKAGE",
+        null
+      ],
+      [
+        "android.permission.INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.INTERACT_ACROSS_USERS",
+        null
+      ],
+      [
+        "android.permission.INTERACT_ACROSS_USERS_FULL",
+        null
+      ],
+      [
+        "android.permission.INTERNAL_DELETE_CACHE_FILES",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.KILL_UID",
+        null
+      ],
+      [
+        "android.permission.MANAGE_APP_OPS_MODES",
+        null
+      ],
+      [
+        "android.permission.MANAGE_APPOPS",
+        null
+      ],
+      [
+        "android.permission.MANAGE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.MANAGE_NETWORK_POLICY",
+        null
+      ],
+      [
+        "android.permission.MANAGE_NOTIFICATION_LISTENERS",
+        null
+      ],
+      [
+        "android.permission.MANAGE_USERS",
+        null
+      ],
+      [
+        "android.permission.MANAGE_SENSORS",
+        null
+      ],
+      [
+        "android.permission.PACKAGE_USAGE_STATS",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.QUERY_ALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.READ_LOGS",
+        null
+      ],
+      [
+        "android.permission.READ_PHONE_STATE",
+        null
+      ],
+      [
+        "android.permission.REAL_GET_TASKS",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.REQUEST_DELETE_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.REVOKE_RUNTIME_PERMISSIONS",
+        null
+      ],
+      [
+        "android.permission.START_ANY_ACTIVITY",
+        null
+      ],
+      [
+        "android.permission.SUSPEND_APPS",
+        null
+      ],
+      [
+        "android.permission.SYSTEM_ALERT_WINDOW",
+        null
+      ],
+      [
+        "android.permission.UPDATE_APP_OPS_STATS",
+        null
+      ],
+      [
+        "android.permission.UPDATE_DOMAIN_VERIFICATION_USER_SELECTION",
+        null
+      ],
+      [
+        "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_SECURE_SETTINGS",
+        null
+      ],
+      [
+        "com.android.launcher.permission.INSTALL_SHORTCUT",
+        null
+      ],
+      [
+        "com.termux.permission.RUN_COMMAND",
+        null
+      ],
+      [
+        "android.permission.USE_BIOMETRIC",
+        null
+      ],
+      [
+        "android.permission.USE_FINGERPRINT",
+        null
+      ],
+      [
+        "io.github.muntashirakon.AppManager.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "io.github.muntashirakon.AppManager.443.png",
+      "480": "io.github.muntashirakon.AppManager.443.png",
+      "320": "io.github.muntashirakon.AppManager.443.png",
+      "240": "io.github.muntashirakon.AppManager.443.png",
+      "160": "io.github.muntashirakon.AppManager.443.png",
+      "0": "io.github.muntashirakon.AppManager.443.png"
+    },
+    "antiFeatures": [],
+    "packageName": "io.github.muntashirakon.AppManager",
+    "versionCode": 443,
+    "name": "App Manager",
+    "versionName": "4.0.3",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 35,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "faccc0efd151ce76fb969c36c26f9a4a",
+    "signer": "320c0c0fe8cef873f2b554cb88c837f1512589dcced50c5b25c43c04596760ab",
+    "size": 26982371,
+    "apkName": "AppManager_v4.0.3.apk",
+    "icon": "io.github.muntashirakon.AppManager.443.png",
+    "added": 1747409547.55991
+  },
+  "AppManager_v4.0.3.apk:Zone.Identifier": {
+    "name": "AppManager_v4.0.3.apk:Zone",
+    "apkName": "AppManager_v4.0.3.apk:Zone.Identifier",
+    "hash": "4eabbad676eac3a564904821202ecc090ab594f6d367ecc8e756b44f9419382a",
+    "hashType": "sha256",
+    "versionCode": 0,
+    "versionName": "4eabbad",
+    "packageName": "4eabbad676eac3a564904821202ecc090ab594f6d367ecc8e756b44f9419382a",
+    "size": 635,
+    "added": 1747495898.378397
+  },
+  "HungryOctapus.apk": {
+    "hash": "098488954cea978bb89c495f8caf78b136975e44cfca34998b87b724f26c1be8",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "com.kaplans.hungryoctapus.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "com.kaplans.hungryoctapus",
+    "versionCode": 10000,
+    "name": "HungryOctapus",
+    "versionName": "1.0",
+    "minSdkVersion": 23,
+    "targetSdkVersion": 34,
+    "sig": "11fe963e932ea6a4ced95960f868c668",
+    "signer": "8aa221024755b86ee6602c5d8ad148439d8d49e5da94683ddd8914bc85cf023f",
+    "size": 2007304,
+    "apkName": "HungryOctapus.apk",
+    "added": 1747495897.87582
+  },
+  "HungryOctapus.apk:Zone.Identifier": {
+    "name": "HungryOctapus.apk:Zone",
+    "apkName": "HungryOctapus.apk:Zone.Identifier",
+    "hash": "898f07a1077888ccff6f0cb28150b036a1dc8df015a394963fb0b8cbed42ce5f",
+    "hashType": "sha256",
+    "versionCode": 0,
+    "versionName": "898f07a",
+    "packageName": "898f07a1077888ccff6f0cb28150b036a1dc8df015a394963fb0b8cbed42ce5f",
+    "size": 86,
+    "added": 1747495898.37998
   }
 }
